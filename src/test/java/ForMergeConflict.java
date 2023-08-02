@@ -1,0 +1,3 @@
+class ForMergeConflict{
+    // TODO
+}
