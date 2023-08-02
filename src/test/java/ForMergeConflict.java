@@ -1,3 +1,5 @@
 class ForMergeConflict{
-    // TODO
+    public static void main(String[] args) {
+        System.out.println("Resolve TODO");
+    }
 }
